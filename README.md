@@ -1,4 +1,4 @@
-# Ceci est une application minimaliste qui respecte le cahier c-dessous.
+# Développement d'une plateforme de transfert de technologies.
   Les technolgies utilisées : PHP, JS, Leaflet, Bootstrap
 
 Projet : Développement d'une plateforme de transfert de technologies
@@ -20,3 +20,17 @@ aux chercheurs :
 Au public :
   • de consulter les informations relatives à une technologie, les documents associés, 
   et de visualiser sur une carte les lieux d'applications de ladite technologie.
+
+# Prérequis
+
+Installer un logiciel comme Xampp ou Wamp
+Demarrer xampp et 'start' < apache > et < mysql > 
+Telécharger le projet et l'extraire dans htdocs (Xampp) (ne modifier pas le nom du repertoire
+Ouvrir un navigateur et taper : localhost/phpmyadmin
+Créer une base de données sous le nom < projetweb >
+Puis importer le fichier < projetweb.sql >
+Ouvrir un navigateur et taper : localhost/plateforme-de-transfert-de-technologies
+
+# Important
+
+Si vous avez des notion en php vous pourrez changer le nom des repertoire et beaucoup d'autres choses.
